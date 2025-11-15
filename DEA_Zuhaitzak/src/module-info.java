@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module DEA_Zuhaitzak {
-}
